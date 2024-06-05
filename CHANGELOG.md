@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2 (2024-06-05)
+
+**Support multiple IMU models**
+
+ - Apart from BMI160, you can now use LSM6DS3 or LSM6DSO
+
 ## v1.1 (2024-03-14)
 
 **BLE updates/fixes**
